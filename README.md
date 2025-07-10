@@ -4,7 +4,7 @@ Frontend Web developer
 
 ```typescript
 .TxNextGen {
-languages: html css js;
+languages: html js css Node js ;
 tools: vscode git;
 current-project: Flicker-AI;
 status: grinding-code;
