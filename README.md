@@ -1,10 +1,10 @@
 # Hi 👋, I'm TxNextGen
 
-Frontend Web developer
+Fullstack Js developer
 
 ```typescript
 .TxNextGen {
-languages: html js css Node js ;
+languages: Js Ts Node Js React Js Express Js;
 tools: vscode git;
 current-project: Flicker-AI;
 status: grinding-code;
