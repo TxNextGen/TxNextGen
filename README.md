@@ -3,15 +3,15 @@
 
 ```typescript
 .TxNextGen {
-  frontend: React, Svelte, JS, HTML/CSS
-  backend: ['Node.js', 'Express.js', 'Python'];
-  tools: ['vscode', 'git'];
-  current-project: 'Flicker-AI';
-  status: 'grinding-code';
+  frontend: React, Svelte, JS, HTML/CSS;
+  backend: Node.js, Express.js, Python;
+  tools: vscode, git;
+  current-project: Flicker-AI;
+  status: grinding-code;
 }
 
 .TxNextGen .contact {
-  discord: '@txnextgen';
+  discord: @txnextgen;
 }
 ```
 
