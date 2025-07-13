@@ -6,8 +6,8 @@
   frontend: React, Svelte, JS, HTML/CSS;
   backend: Node.js, Express.js, Python;
   tools: vscode, git;
-  current-project: Flicker-AI;
-  status: grinding-code;
+  currentProject: Flicker-AI;
+  status: 'grinding-code';
 }
 
 .TxNextGen .contact {
