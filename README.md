@@ -7,7 +7,7 @@
   backend: ['Node.js', 'Express.js', 'Python'];
   tools: ['vscode', 'git'];
   current-project: 'Flicker-AI';
-  status: 'grinding-code';
+  status: grinding-code;
 }
 
 .TxNextGen .contact {
