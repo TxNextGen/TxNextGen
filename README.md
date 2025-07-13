@@ -1,19 +1,9 @@
-# Hi 👋, I'm TxNextGen
-
-Fullstack Web Developer
-
-```typescript
-.TxNextGen {
-frontend: ['React', 'Svelte', 'JS', 'HTML/CSS'],
-backend: ['Node.js', 'Express.js', 'Python'],
-tools: vscode git;
-current-project: Flicker-AI;
-status: grinding-code;
+const TxNextGen = {
+  frontend: ['React', 'Svelte', 'Vanilla JS', 'HTML/CSS'],
+  backend: ['Node.js', 'Express.js', 'Python'],
+  languages: ['JavaScript', 'TypeScript'],
+  tools: ['VS Code', 'Git'],
+  currentProject: 'Flicker AI',
+  status: 'shipping code',
+  passion: 'AI-powered web applications'
 }
-
-.TxNextGen .contact {
-discord: @txnextgen;
-}
-```
-
-🛠️ Co-founder of **Flicker AI** - AI web app
