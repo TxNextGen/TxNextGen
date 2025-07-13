@@ -3,7 +3,7 @@
 
 ```typescript
 .TxNextGen {
-  frontend: ['React', 'Svelte', 'JS', 'HTML/CSS'];
+  frontend: React, Svelte, JS, HTML/CSS
   backend: ['Node.js', 'Express.js', 'Python'];
   tools: ['vscode', 'git'];
   current-project: 'Flicker-AI';
