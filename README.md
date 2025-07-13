@@ -5,7 +5,7 @@
 .TxNextGen {
   frontend: React, Svelte, JS, HTML/CSS;
   backend: Node.js, Express.js, Python;
-  tools: vscode, git;
+  tools: VSCode, Git;
   current-project: Flicker-AI;
   status: grinding-code;
 }
