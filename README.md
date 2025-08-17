@@ -4,7 +4,7 @@
 ```typescript
 .TxNextGen {
   Languages: HTML/CSS, Typescript, Python, JS;
-  Tech Stack: React, Svelte, Node JS, Tailwind css;
+  tech Stack: React, Svelte, Node JS, Tailwind css;
   tools: VSCode, Git;
   current-project: Flicker-AI;
   status: Grinding-Code;
