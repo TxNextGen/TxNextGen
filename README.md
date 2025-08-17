@@ -3,8 +3,8 @@
 
 ```typescript
 .TxNextGen {
-  frontend: React, Svelte, JS, HTML/CSS;
-  backend: Node.js, Express.js, Python;
+  Languages: HTML/CSS, Typescript, Python, JS;
+  Tech Stack: React, Svelte, Node JS, Tailwind css;
   tools: VSCode, Git;
   current-project: Flicker-AI;
   status: Grinding-Code;
