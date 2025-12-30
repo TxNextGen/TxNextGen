@@ -6,7 +6,7 @@
   Languages: HTML/CSS, Typescript, Python, JS;
   tech Stack: React, Svelte, Node JS, Tailwind css;
   tools: VSCode, Git;
-  current-project: Flicker-AI;
+  current-project: Saturn-Proxy;
   status: Grinding-Code;
 }
 
