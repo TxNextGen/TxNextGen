@@ -15,4 +15,4 @@
 }
 ```
 
-🛠️ Ai Developer
+🛠️ Proxy Developer
